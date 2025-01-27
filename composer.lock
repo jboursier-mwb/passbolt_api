@@ -1443,16 +1443,16 @@
         },
         {
             "name": "enygma/yubikey",
-            "version": "3.8",
+            "version": "3.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/enygma/yubikey.git",
-                "reference": "bc0a30da2b20fe4cdb75d04714050f52c2ddde9a"
+                "reference": "9eaa725ecc200fbb930f51c344adb4b272d87ae6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/enygma/yubikey/zipball/bc0a30da2b20fe4cdb75d04714050f52c2ddde9a",
-                "reference": "bc0a30da2b20fe4cdb75d04714050f52c2ddde9a",
+                "url": "https://api.github.com/repos/enygma/yubikey/zipball/9eaa725ecc200fbb930f51c344adb4b272d87ae6",
+                "reference": "9eaa725ecc200fbb930f51c344adb4b272d87ae6",
                 "shasum": ""
             },
             "require": {
@@ -1490,9 +1490,9 @@
             ],
             "support": {
                 "issues": "https://github.com/enygma/yubikey/issues",
-                "source": "https://github.com/enygma/yubikey/tree/3.8"
+                "source": "https://github.com/enygma/yubikey/tree/3.9"
             },
-            "time": "2024-06-05T14:15:12+00:00"
+            "time": "2024-12-02T17:08:18+00:00"
         },
         {
             "name": "firebase/php-jwt",
@@ -8852,5 +8852,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
